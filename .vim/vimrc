@@ -30,3 +30,5 @@ set history=1000
 "undo settings
 set undodir=~/.vim/undofiles
 set undofile
+set modeline
+set ls=2
