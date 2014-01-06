@@ -1,0 +1,7 @@
+[push]
+	default = simple
+
+[alias]
+  glog = log --graph
+  dlog = log -p
+  mu = !git ls-files -v | grep ^[a-z]
